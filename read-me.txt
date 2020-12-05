@@ -1,0 +1,9 @@
+move assetfinder, subfinder, amass, jq to /usr/local/bin or /usr/bin (if not )
+
+install github-search tool from below
+https://github.com/gwen001/github-search.git 
+then move " github-subdomain.py " file to the /usr/bin
+
+
+specify your token at line number 19 in subdomain-finder.sh file and remove this this brackets "<>"
+
