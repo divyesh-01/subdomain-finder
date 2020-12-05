@@ -1,4 +1,4 @@
-move assetfinder, subfinder, amass, jq to /usr/local/bin or /usr/bin (if not )
+move assetfinder, subfinder, amass, jq to /usr/local/bin or /usr/bin 
 
 install github-search tool from below
 https://github.com/gwen001/github-search.git 
